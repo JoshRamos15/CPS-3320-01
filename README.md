@@ -5,7 +5,7 @@ Repo for CPS 3320(01) projects
 
 Description: A python data analyses program which utilizes the pandas library along with a Kaggle dataset of every NBA Finals series starting from 1980 - 2018. Determines how big of an impact rebounding is when determining the winner of the Nba Finals by breaking down teams rebounds in games they won vs games they lossed.
 
-#Project 2 Link:
+#Project 2 Link:https://github.com/JoshRamos15/Project-Pillow-Library
 
 Description:The central purpose of the program is for the user to open an image on their computer by entering the images file path and then adding a filter to the image which in this case the blur filter was chosen. The Pillow library we found to be a very powerful image manipulation library that can do many processes with an image. Besides adding a blur filter the library can be used to add gray scale to an image and enhance the image brightness or sharpness.
 

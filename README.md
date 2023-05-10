@@ -5,7 +5,7 @@ Repo for CPS 3320(01) projects
 
 Description: A python data analyses program which utilizes the pandas library along with a Kaggle dataset of every NBA Finals series starting from 1980 - 2018. Determines how big of an impact rebounding is when determining the winner of the Nba Finals by breaking down teams rebounds in games they won vs games they lossed.
 
-#Project 2 Link:https://github.com/JoshRamos15/Project-Pillow-Library
+#Project 2 Link:https://github.com/JoshRamos15/Pillow-Pokemon-Google-Translate
 
 Description:Description: The central purpose of these programs is to show the understanding of importing of python libraries and making a 3 separate functioning programs. The first program will use the pillow library to add a filter to an image.The second program will translate english language into any of the selected google translate languagues using the google translate api. The third library will display simple ascii art displaying pokemon
 
